@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mahindra_BE_6"
+
+generations:
+  - name: "First Generation"
+    start_year: 2025
+    end_year: null
+    description: "The Mahindra BE 6 is a battery electric SUV built on Mahindra's INGLO electric platform, sold from 2025 with 59 kWh and 79 kWh battery packs."
